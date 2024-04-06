@@ -3,3 +3,5 @@
 ссылка вот на него: [https://bitgrit.net/competition/15](https://bitgrit.net/competition/15)
 Weather Forecast Challenge
 Predict the weather and feed the world
+
+252 = N
