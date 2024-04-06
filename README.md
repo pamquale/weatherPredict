@@ -6,8 +6,6 @@ Predict the weather and feed the world
 
 252 = N
 
-370 = N
-
 362 = N
 
 378 = N
